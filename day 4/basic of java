@@ -1,0 +1,26 @@
+Java is a high-level, general-purpose, object-oriented, and secure programming language developed by James Gosling at Sun Microsystems, 
+Inc. in 1991. It is formally known as OAK. In 1995, Sun Microsystem changed the name to Java. In 2009, Sun Microsystem takeover by Oracle Corporation.
+
+ There are three editions of Java:
+
+Java Standard Editions (JSE): It is used to create programs for a desktop computer.
+Java Enterprise Edition (JEE): It is used to create large programs that run on the server and manages heavy traffic and complex transactions.
+Java Micro Edition (JME): It is used to develop applications for small devices such as set-top boxes, phone, and appliances.
+Types of Java Applications
+There are four types of Java applications that can be created using Java programming:
+
+Standalone Applications: Java standalone applications uses GUI components such as AWT, Swing, and JavaFX. These components contain buttons, list, menu, scroll panel, etc. It is also known as desktop alienations.
+Enterprise Applications: An application which is distributed in nature is called enterprise applications.
+Web Applications: An applications that run on the server is called web applications. We use JSP, Servlet, Spring, and Hibernate technologies for creating web applications.
+Mobile Applications: Java ME is a cross-platform to develop mobile applications which run across smartphones. Java is a platform for App Development in Android.
+Java Platform
+Java Platform is a collection of programs. It helps to develop and run a program written in the Java programming language. Java Platform includes an execution engine, a compiler and set of libraries. Java is a platform-independent language.
+
+
+
+Features of Java
+Simple: Java is a simple language because its syntax is simple, clean, and easy to understand. Complex and ambiguous concepts of C++ are either eliminated or re-implemented in Java. For example, pointer and operator overloading are not used in Java.
+Object-Oriented: In Java, everything is in the form of the object. It means it has some data and behavior. A program must have at least one class and object.
+Robust: Java makes an effort to check error at run time and compile time. It uses a strong memory management system called garbage collector. Exception handling and garbage collection features make it strong.
+Secure: Java is a secure programming language because it has no explicit pointer and programs runs in the virtual machine. Java contains a security manager that defines the access of Java classes.
+Platform-Independent: Java provides a guarantee that code writes once and run anywhere. This byte code is platform-independent and can be run on any machine.
